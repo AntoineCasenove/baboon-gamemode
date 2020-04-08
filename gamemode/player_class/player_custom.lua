@@ -5,9 +5,9 @@ DEFINE_BASECLASS( "player_default" )
  --
  -- See gamemodes/base/player_class/player_default.lua for all overridable variables
  --
- PLAYER.WalkSpeed = 800
- PLAYER.RunSpeed  = 1600
- PLAYER.JumpPower = 1000
+ PLAYER.WalkSpeed = 600
+ PLAYER.RunSpeed  = 1000
+ PLAYER.JumpPower = 800
  PLAYER.StartArmor = 200
  PLAYER.DropWeaponOnDie = true
 
