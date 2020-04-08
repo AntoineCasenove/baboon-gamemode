@@ -1,0 +1,12 @@
+"levelup"
+{
+	"base"		"base"
+	"title"		"Bababoon !"
+	"maps"		"^gm_|^gmod_|^cs_|^de_|"
+	"menusystem"	"1"
+
+	"settings"
+	{
+
+	}
+}
