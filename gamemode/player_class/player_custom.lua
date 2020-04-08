@@ -15,8 +15,8 @@ DEFINE_BASECLASS( "player_default" )
 
  	self.Player:RemoveAllAmmo()
 
- 	self.Player:GiveAmmo( 256,	"357", true )
- 	self.Player:GiveAmmo( 256,	"Buckshot", true )
+ 	self.Player:GiveAmmo( 256, "357", true )
+ 	self.Player:GiveAmmo( 256, "Buckshot", true )
  	self.Player:Give( "weapon_357" )
  	self.Player:Give( "weapon_shotgun" )
 
