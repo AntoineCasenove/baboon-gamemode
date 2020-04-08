@@ -7,6 +7,9 @@ DEFINE_BASECLASS( "player_default" )
  --
  PLAYER.WalkSpeed = 800
  PLAYER.RunSpeed  = 1600
+ PLAYER.JumpPower = 1000
+ PLAYER.StartArmor = 200
+ PLAYER.DropWeaponOnDie = true
 
  function PLAYER:Loadout()
 
